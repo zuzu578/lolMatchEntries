@@ -1,3 +1,4 @@
+<img width="765" alt="스크린샷 2021-07-29 오전 12 41 46" src="https://user-images.githubusercontent.com/69393030/127352985-d6e937b5-093b-44b6-93a3-33775879f213.png">
 <img width="880" alt="스크린샷 2021-07-28 오후 5 11 38" src="https://user-images.githubusercontent.com/69393030/127287949-704c98cf-5527-4048-a7a4-573ba6297e9e.png">
 # lolMatchEntries
 # 리그오브레전드 매치 상세내용 조회 
@@ -20,4 +21,7 @@ response 후 , 10명의 참가자들의 챔피언 정보 , 소환사 아이콘 ,
 # resultScreen
 
 <img width="1136" alt="스크린샷 2021-07-28 오후 5 16 33" src="https://user-images.githubusercontent.com/69393030/127288639-5e00b68c-94f7-4ad6-9488-2165f309892a.png">
+
+# 2021-07-29 updates
 <img width="1136" alt="스크린샷 2021-07-28 오후 5 16 57" src="https://user-images.githubusercontent.com/69393030/127288694-99c751e1-e328-44ee-99bb-e298f6cd7115.png">
+아이템 목록 , 챔피언 ,등의 데이터를 테이블 추가 
